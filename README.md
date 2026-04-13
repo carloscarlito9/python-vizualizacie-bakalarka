@@ -18,11 +18,11 @@ Cieľom práce je porovnať vybrané knižnice z hľadiska:
 - Plotly
 - GeoPandas
 
-## Typy dát
+## Použité dáta
 
-- časové rady (S&P 500, GHCN)
-- korelačné dáta (World Bank WDI)
-- geografické dáta (OSM, Powerwatch)
+- časové rady ( GHCN),
+- korelačné dáta (World Bank WDI),
+- geografické dáta (OSM).
 
 ## Štruktúra projektu
 
@@ -35,7 +35,7 @@ Cieľom práce je porovnať vybrané knižnice z hľadiska:
 
 ## Poznámka k dátam
 
-Veľké surové datasety nie sú súčasťou repozitára. Repo obsahuje najmä notebooky, zdrojové kódy, konfigurácie a vybrané výstupy potrebné na reprodukovanie experimentov.
+Veľké datasety nie sú súčasťou repozitára. Repo obsahuje najmä notebooky, zdrojové kódy, konfigurácie a vybrané výstupy potrebné na reprodukovanie experimentov.
 
 ## Hlavné časti analýzy
 
@@ -44,9 +44,13 @@ Veľké surové datasety nie sú súčasťou repozitára. Repo obsahuje najmä n
 - porovnanie nástrojov pri geografických údajoch,
 - zber metrík a vyhodnotenie silných a slabých stránok jednotlivých riešení.
 
+## Spustenie projektu
+
+Projekt je organizovaný vo forme Jupyter notebookov a pomocných Python modulov. Na spustenie je potrebné mať nainštalovaný Python a príslušné knižnice použité v projekte.
+
 ## Výsledok
 
-Výsledkom projektu je súbor odporúčaní, ktorá knižnica je vhodná pre konkrétny analytický problém a typ dát.
+Výsledkom projektu je súbor odporúčaní, ktoré pomáhajú určiť, ktorá knižnica je vhodná pre konkrétny analytický problém a typ dát.
 
 ## Autor
 
