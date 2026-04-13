@@ -1,0 +1,1 @@
+criteria: interactivity: 0.30 performance: 0.30 code_effort: 0.20 exportability: 0.10 readability: 0.10 constraints: must_have_png: false must_have_html: true

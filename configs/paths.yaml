@@ -1,0 +1,1 @@
+data_raw: "practicka_cast/data/raw" data_interim: "practicka_cast/data/interim" data_processed: "practicka_cast/data/processed" outputs: "practicka_cast/outputs"

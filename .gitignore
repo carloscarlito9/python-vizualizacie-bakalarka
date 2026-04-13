@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Raw and intermediate data
+data/raw/
+data/interim/
+
+# Generated outputs
+outputs/html/
+outputs/reports/
+outputs/tables/
+
+# Optional generated figures
+# outputs/figures/
+
+outputs/html/
+outputs/reports/
+outputs/tables/
